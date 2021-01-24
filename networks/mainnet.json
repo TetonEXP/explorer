@@ -1,6 +1,6 @@
 {
   "title": "TEXP Explorer",
-  "server": "http://188.34.197.25:4003/api",
+  "server": "http://157.90.30.129:4003/api",
   "alias": "Main",
   "activeDelegates": 5,
   "rewardOffset": 0,
